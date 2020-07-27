@@ -153,9 +153,9 @@ firefox-desktop-download-just-download-the-browser = Just Download The Browser
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-finish = Almost there! Now finish <strong>installing</strong> { -brand-name-firefox }.
 firefox-desktop-download-run-installer = Run the { -brand-name-firefox } Installer
-firefox-desktop-download-click-installer-bottom = Run the { -brand-name-firefox } installer to perform the installation.
+firefox-desktop-download-run-installer-bottom = Find and run the { -brand-name-firefox } installer to perform the installation.
 firefox-desktop-download-select-yes = Select YES
-firefox-desktop-download-click-yes = Click YES in the pop-up window.
+firefox-desktop-download-click-yes = Give the { -brand-name-firefox } installer permission to make changes to your computer.
 firefox-desktop-download-start-using = Start using { -brand-name-firefox }
 firefox-desktop-download-will-automatically-open = { -brand-name-firefox } will automatically open.
 firefox-desktop-download-open-file = Open the { -brand-name-firefox } file in Downloads
